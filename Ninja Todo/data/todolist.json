@@ -1,0 +1,26 @@
+{"taskList": [
+    {
+        "description": "Assignment 1",
+        "tag": "Math",
+        "dueDay": "2021-08-08",
+        "estTime": 30
+    },
+    {
+        "description": "Editing resume",
+        "tag": "Work",
+        "dueDay": "2021-09-12",
+        "estTime": 60
+    },
+    {
+        "description": "Homie's Birthday party",
+        "tag": "Party",
+        "dueDay": "2021-10-01",
+        "estTime": 300
+    },
+    {
+        "description": "Fly me to the moon",
+        "tag": "Music Class",
+        "dueDay": "2021-09-07",
+        "estTime": 90
+    }
+]}

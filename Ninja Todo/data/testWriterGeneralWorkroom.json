@@ -1,0 +1,16 @@
+{
+  "taskList": [
+    {
+      "tag": "Math",
+      "dueDay": "2021-08-08",
+      "estTime": 30,
+      "description": "Assignment 1"
+    },
+    {
+      "tag": "Party",
+      "dueDay": "2021-10-01",
+      "estTime": 300,
+      "description": "Homie's Birthday party"
+    }
+  ]
+}
